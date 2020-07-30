@@ -35,6 +35,11 @@ welfare<-raw_welfare
 
 ``` r
 head(welfare)
+tail(welfare)
+View(welfare)
+dim(welfare)
+str(welfare)
+summary(welfare)
 ```
 
 #### 5\. 변수명 바꾸기
